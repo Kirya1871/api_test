@@ -39,6 +39,7 @@ def test_single_user():
 
     assert example == response_body
 
+
 def test_create():
     name = 'TTTT'
     job = 'jjjj'
